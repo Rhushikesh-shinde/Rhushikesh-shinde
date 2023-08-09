@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.Net and React**
 
-- 👨‍💻 All of my projects are available at [rhushikeshshinde-portfolio.unaux.com](rhushikeshshinde-portfolio.unaux.com)
+- 👨‍💻 All of my projects are available at [rhushikesh-shinde.github.io/Portfolio/](rhushikesh-shinde.github.io/Portfolio/)
 
 - 📫 How to reach me **Linkedin - https://www.linkedin.com/in/rhushikeshshinde0**
 
